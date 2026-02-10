@@ -6,5 +6,3 @@ class Solution:
             nums.append(i)
         nums.sort()
         return len(nums)
-                    
-        
