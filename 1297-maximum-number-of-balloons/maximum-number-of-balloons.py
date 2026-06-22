@@ -3,7 +3,6 @@ class Solution:
 
         countText = Counter(text)
         balloon = Counter("balloon")
-
         res = float('inf')
 
         for i in balloon:
